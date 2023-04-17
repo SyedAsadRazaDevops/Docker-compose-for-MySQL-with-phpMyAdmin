@@ -40,3 +40,8 @@ Next, run the following command to create Docker containers using the docker-com
 ```
 docker-compose up -d
 ```
+Now, access the phpMyAdmin using the web browser. I am running this example on my local machine. So used host as localhost with port 8081 defined in docker compose configuration. 
+
+```
+http://localhost:8081
+```
